@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DKK2022
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning SQL and Tableau
-- 💞️ I’m looking to collaborate on proects involving machine learning
+- 💞️ I’m looking to collaborate on proects involving machine learning using Python
 - 📫 How to reach me daniel_kpeglo@yahoo.com and https://www.linkedin.com/in/daniel-kwasi-kpeglo-7873b422/
 
 <!---
